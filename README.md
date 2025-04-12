@@ -1,1 +1,1 @@
-# Hello-world
+# hi, my first intentional repository
